@@ -1,9 +1,14 @@
-# Hello there 👋
-
+# 👋 Hello there 
 ![](https://github.com/nkukard/nkukard/blob/main/banner.png)
 
 Welcome to my Github profile page where you can get to know me...
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nkukard&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nkukard&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nkukard&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# 💫 About Me
 * 🧐   Addicted to programming & writing unique mission critical backend software.
 * 🎓   PhD in Computer Science.
 * 💼   CTO of the AllWorldIT group of companies.
@@ -12,7 +17,7 @@ Welcome to my Github profile page where you can get to know me...
 * 🌱   Addicted to Opensource software and Linux.
 * ✍🏻   More details on me on my [Personal Website](https://nkukard.opensource.expert/).
 
-Socials:
+# 🌐 Socials
 * [My Discord](https://discord.gg/YufTUAY)
 * [Linux.Chat Discord](https://discord.gg/eppWCrXNhH)
 * [Mastodon](https://linux.social/@nkukard)
