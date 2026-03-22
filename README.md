@@ -10,7 +10,6 @@ Welcome to my Github profile page where you can get to know me...
 
 # 💫 About Me
 * 🧐   Addicted to programming & writing unique mission critical backend software.
-* 🎓   PhD in Computer Science.
 * 💼   CTO of the AllWorldIT group of companies.
 * 💡   Specializing in Linux networking, virtualization and new & emerging threat intelligence.
 * ⛵   Founder of the largest Linux multi-platform community [Linux.Chat](Linux.Chat), since 1999.
